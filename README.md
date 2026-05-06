@@ -4,7 +4,7 @@
 https://www.myxpenseapp.site
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Overview
+## Overview 
 
 MyXpense is a Progressive Web App (PWA) built for smart expense and income tracking. It provides users with a robust financial management tool featuring offline-first storage with optional Firebase cloud backup, AI-powered insights, a secure Secret Vault for savings, and comprehensive financial tracking capabilities.
 
